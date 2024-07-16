@@ -108,25 +108,3 @@ Stop a Docker Container:
 Show Running Docker Containers:
   ```sh
   docker ps
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
